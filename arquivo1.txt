@@ -7,6 +7,3 @@ Teste git 3
 
 
 Teste git 4 em outra branch
-
-
-Teste git 5 em outra branch
